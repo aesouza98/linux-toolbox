@@ -9,7 +9,8 @@ show_help() {
     echo "This script requires superuser privileges. Please run as 'sudo' or 'root'."
     echo
     echo "Options:"
-    echo "  -h, --help    Show this help message and exit"
+    echo "  -h, --help                      Show this help message and exit"
+    echo "./install.sh <function_name>      Run only the user selection and the selected function. Example: sudo ./install.sh arch_update_system"
     # Add other options here as needed
 }
 
