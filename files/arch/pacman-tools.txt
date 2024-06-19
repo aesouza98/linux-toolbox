@@ -1,0 +1,14 @@
+alacritty
+kitty
+vlc
+ranger
+gparted
+unzip
+bitwarden
+steam
+pavucontrol
+neovim
+deja-dup
+qbittorrent
+docker
+vagrant

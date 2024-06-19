@@ -1,0 +1,12 @@
+com.spotify.Client
+com.github.tchx84.Flatseal
+com.obsproject.Studio
+com.spotify.Client
+md.obsidian.Obsidian
+org.onlyoffice.desktopeditors
+org.nickvision.tubeconverter
+com.getmailspring.Mailspring
+com.visualstudio.code
+net.davidotek.pupgui2
+com.mattjakeman.ExtensionManager
+org.gnome.Todo
